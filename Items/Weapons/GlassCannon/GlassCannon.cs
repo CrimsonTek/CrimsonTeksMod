@@ -15,6 +15,7 @@ namespace CrimsonTeksMod.Items.Weapons.GlassCannon
         public override void SetStaticDefaults()
         {
             DisplayName.SetDefault("Glass Cannon");
+            Tooltip.SetDefault("Idea By u/jely710");
         }
 
         public override void SetDefaults()

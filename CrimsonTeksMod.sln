@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrimsonTeksMod", "CrimsonTeksMod.csproj", "{C16C7A5E-42F9-417E-AFFB-A90A64AEDE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16C7A5E-42F9-417E-AFFB-A90A64AEDE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16C7A5E-42F9-417E-AFFB-A90A64AEDE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16C7A5E-42F9-417E-AFFB-A90A64AEDE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16C7A5E-42F9-417E-AFFB-A90A64AEDE52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC53907A-F453-4FD9-AF70-71A9C7AA9C31}
+	EndGlobalSection
+EndGlobal
